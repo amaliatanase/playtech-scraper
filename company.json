@@ -1,0 +1,88 @@
+{
+  "validatedAt": "2026-10-28T20:03:21.388638+00:00",
+  "source": "ANAF",
+  "brand": "Playtech",
+  "anaf": {
+    "cui": 36623077,
+    "name": "PTR LIVE TECHNOLOGIES SRL",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GEORGE ENESCU, NR.11-11A, PARTER B (121.65 MP). MEZANIN B (108.17 MP) . ETAJUL 2 (225.56 MP). ETAJUL 3 (533.57 MP). ETAJUL 4 (566.36 MP). ETAJUL 7 (155.80 MP). CAME",
+    "registrationNumber": "J2016013365405",
+    "phone": "",
+    "fax": "",
+    "postalCode": "",
+    "caenCode": "8299",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 11.10.2016",
+    "registrationDate": "2016-10-11",
+    "fiscalAuthority": "Direcţia Generală a Finanţelor Publice Municipiul Bucureşti",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2017-01-26",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": true,
+    "headquartersAddress": {
+      "street": "Str. George Enescu",
+      "number": "11-11A",
+      "locality": "Sector 1 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "36623077",
+    "company": "PTR LIVE TECHNOLOGIES SRL",
+    "brand": "PTR LIVE TECHNOLOGIES SRL",
+    "status": "activ",
+    "location": [
+      "Bucureşti Sectorul 1"
+    ],
+    "lastScraped": "2026-07-28",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Bucureşti Sectorul 1, Bucureşti"
+    ],
+    "anafData": [
+      "{\"cif\":36623077,\"cui\":36623077,\"denumire\":\"PTR LIVE TECHNOLOGIES SRL\",\"company\":\"PTR LIVE TECHNOLOGIES SRL\",\"brand\":\"PTR LIVE TECHNOLOGIES SRL\",\"statusImpozit\":\"activ\",\"adresa\":\"Bucureşti Sectorul 1, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 1\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1871958501321867264,
+    "_root_": "36623077"
+  },
+  "summary": {
+    "company": "PTR LIVE TECHNOLOGIES SRL",
+    "cif": "36623077",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GEORGE ENESCU, NR.11-11A, PARTER B (121.65 MP). MEZANIN B (108.17 MP) . ETAJUL 2 (225.56 MP). ETAJUL 3 (533.57 MP). ETAJUL 4 (566.36 MP). ETAJUL 7 (155.80 MP). CAME"
+  }
+}

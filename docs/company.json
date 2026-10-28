@@ -1,0 +1,17 @@
+{
+  "id": "36623077",
+  "company": "PTR LIVE TECHNOLOGIES SRL",
+  "brand": "Playtech",
+  "status": "activ",
+  "location": [
+    "Bucuresti"
+  ],
+  "website": [
+    "https://www.playtech.com"
+  ],
+  "career": [
+    "https://careers.smartrecruiters.com/Playtech"
+  ],
+  "scraperFile": "https://github.com/amaliatanase/playtech-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://jobs.smartrecruiters.com/Playtech/"
+}
