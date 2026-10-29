@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-28T20:03:21.388638+00:00",
+  "validatedAt": "2026-10-29T12:17:36.862906+00:00",
   "source": "ANAF",
   "brand": "Playtech",
   "anaf": {
@@ -59,23 +59,20 @@
   "peviitor": {
     "id": "36623077",
     "company": "PTR LIVE TECHNOLOGIES SRL",
-    "brand": "PTR LIVE TECHNOLOGIES SRL",
+    "brand": "Playtech",
     "status": "activ",
     "location": [
-      "Bucureşti Sectorul 1"
+      "MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GEORGE ENESCU, NR.11-11A, PARTER B (121.65 MP). MEZANIN B (108.17 MP) . ETAJUL 2 (225.56 MP). ETAJUL 3 (533.57 MP). ETAJUL 4 (566.36 MP). ETAJUL 7 (155.80 MP). CAME"
     ],
-    "lastScraped": "2026-07-28",
-    "scraperFile": "inviitor-ro-nodejs-scraper",
-    "address": [
-      "Bucureşti Sectorul 1, Bucureşti"
+    "website": [
+      "https://www.playtech.com"
     ],
-    "anafData": [
-      "{\"cif\":36623077,\"cui\":36623077,\"denumire\":\"PTR LIVE TECHNOLOGIES SRL\",\"company\":\"PTR LIVE TECHNOLOGIES SRL\",\"brand\":\"PTR LIVE TECHNOLOGIES SRL\",\"statusImpozit\":\"activ\",\"adresa\":\"Bucureşti Sectorul 1, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 1\",\"website\":\"\"}"
+    "career": [
+      "https://careers.smartrecruiters.com/Playtech"
     ],
-    "existingJobsCount": [
-      0
-    ],
-    "_version_": 1871958501321867264,
+    "lastScraped": "2026-10-28",
+    "scraperFile": "https://github.com/amaliatanase/playtech-scraper/actions/workflows/scrape.yml",
+    "_version_": 1880325149510598656,
     "_root_": "36623077"
   },
   "summary": {
