@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-30T12:08:22.911646+00:00",
+  "validatedAt": "2026-10-31T11:41:26.557986+00:00",
   "source": "ANAF",
   "brand": "Playtech",
   "anaf": {
@@ -70,9 +70,9 @@
     "career": [
       "https://careers.smartrecruiters.com/Playtech"
     ],
-    "lastScraped": "2026-10-29",
+    "lastScraped": "2026-10-30",
     "scraperFile": "https://github.com/amaliatanase/playtech-scraper/actions/workflows/scrape.yml",
-    "_version_": 1880386444511412224,
+    "_version_": 1880476461125599232,
     "_root_": "36623077"
   },
   "summary": {
