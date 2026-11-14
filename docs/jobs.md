@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GEORGE ENESCU, NR.11-11A, PARTER B (121.65 MP). MEZANIN B (108.17 MP) . ETAJUL 2 (225.56 MP). ETAJUL 3 (533.57 MP). ETAJUL 4 (566.36 MP). ETAJUL 7 (155.80 MP). CAME |
 | Website | [https://www.playtech.com](https://www.playtech.com) |
 | Careers | [https://careers.smartrecruiters.com/Playtech](https://careers.smartrecruiters.com/Playtech) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-13T13:55:18.136136+00:00_
+_Generated: 2026-11-14T12:57:46.427941+00:00_
 
 ### English Dealer
 
